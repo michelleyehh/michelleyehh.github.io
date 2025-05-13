@@ -1,0 +1,54 @@
+p{
+    color: rgb(61, 56, 56);
+}
+
+.conan{
+    background-color: rgb(183, 149, 214);
+}
+
+a.mmlink{
+    padding: 0px 20px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color: rgb(171, 154, 185);
+}
+
+a.mmlink:hover{
+    background-color: rgb(160, 129, 186);
+    color: white;
+}
+
+div.mmdivgrey{
+    background-color: rgb(218, 203, 230);
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(46, 27, 62);
+    width: 90%;
+    margin: 10px auto;
+}
+
+h4.mmsmallh4{
+    font-size: 18px;
+}
+
+section#about.resume-section{
+    background-color: rgb(227, 217, 238);
+}
+
+.table-mmpurple{
+    background-color: rgb(160, 129, 186);
+}
+
+.mmcrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.mmcallmebg{
+    background-image: url("../assets/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
