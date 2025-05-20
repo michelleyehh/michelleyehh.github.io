@@ -60,3 +60,8 @@ section#about.resume-section{
 .mmcenter{
     text-align: center;
 }
+
+.mmhl{
+    color: rgb(202, 145, 145);
+    font-weight: 900;
+}
