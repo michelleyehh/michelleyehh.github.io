@@ -56,3 +56,7 @@ section#about.resume-section{
 .mmserif{
     font-family: "Noto Serif TC", serif;
 }
+
+.mmcenter{
+    text-align: center;
+}
