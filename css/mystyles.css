@@ -62,7 +62,7 @@ section#about.resume-section{
 }
 
 .mmhl{
-    color: rgb(202, 145, 145);
+    color: rgb(103, 48, 78);
     font-weight: 900;
 }
 
@@ -74,7 +74,7 @@ section#about.resume-section{
 		border: 0;
 		border-radius: 33%;
 		opacity: 0.6;
-		background: #000;
+		background: #26061c;
 		cursor: pointer;
 		position:fixed;
 		right: 1rem;
@@ -85,7 +85,7 @@ section#about.resume-section{
 		width: 25px;
 		height: 6px;
 		border-radius: 3px;
-		background: rgb(143, 78, 128);
+		background: rgb(193, 137, 180);
 		position: absolute;
 		content: "";
 	}
